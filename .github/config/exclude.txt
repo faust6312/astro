@@ -1,1 +1,3 @@
 .vscode/
+Host github.com
+  HostName ssh.github.com
