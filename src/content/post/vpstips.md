@@ -1,8 +1,10 @@
 ---
-title: 一些VPS配置
-description: An introduction to using the note feature in Astro Cactus
-publishDate: "2025-1-1T12:51:00Z"
+title: "VPS tips"
+description: "This post showcases using the markdown admonition feature in Astro Cactus"
+publishDate: "1 Jan 2025"
+tags: ["vps", "Docker"]
 ---
+
 
 Docker
 ```
